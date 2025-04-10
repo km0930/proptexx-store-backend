@@ -1,0 +1,8 @@
+/node_modules
+.yarn/*
+# local env files
+.env*.local
+.env
+yarn.lock
+
+**.idea**
